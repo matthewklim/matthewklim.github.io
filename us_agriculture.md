@@ -6,8 +6,7 @@ Follow changes overtime for major crops grown in the United States from 1990 to 
 
 The goal of this exercise is to produce high-quality data visualizations. Analytics professionals frequently encounter messy and unfamiliar datasets, which require distilling complex information to make it accessible to data consumers. Intuitive and digestible output enables business users to make informed decisions.
 
-<iframe src="https://public.tableau.com/views/USAgriculture_15891807504100/UnitedStatesAgriculture?:showVizHome=no&:embed=true"
- width="645" height="955"></iframe>
+<iframe src="https://public.tableau.com/views/USAgriculture_15891807504100/UnitedStatesAgriculture?:showVizHome=no&:embed=true"></iframe>
 
 ## Background Context
 
