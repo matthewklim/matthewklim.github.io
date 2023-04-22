@@ -2,7 +2,7 @@
 
 [Home Page](/index)
 
-View the [Notebook](/notebooks/disney_vacation_club_html)!
+View the [Notebook](/notebooks/disney_vacation_club_html.html)!
 
 My appreciation for Disney has grown with age. I love visiting the theme parks. The wonderful experiences at the parks led to the discovery of [Disney Vacation Club](https://disneyvacationclub.disney.go.com/) and realizing that a membership would make sense financially.
 
