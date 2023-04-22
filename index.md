@@ -19,7 +19,7 @@
 
 ### Notebooks
 
-### [Disney Vacation Club](notebooks/disney_vacation_club) Highlights
+### [Disney Vacation Club](notebooks/disney_vacation_club)
 
 * A lightweight forecast analysis designed to help inform a potential purchase
 
