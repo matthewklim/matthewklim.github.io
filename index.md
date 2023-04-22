@@ -23,4 +23,6 @@
 
 * A lightweight forecast analysis designed to help inform a potential purchase
 
+[![Polynesian Prediction](images/polynesian_prediction.png)](notebooks/disney_vacation_club)
+
 ![python](https://img.shields.io/badge/Python-white?logo=python) ![jupyter_notebook](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)
